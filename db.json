@@ -1,0 +1,24 @@
+{
+    "opportunities" : [
+        {
+            "id": 0,
+            "title": "Museum Work Experience ",
+            "company": "Natural History Museum",
+            "description": "Spend one week away from the classroom learning about a specific job or area of museum work.",
+            "location": "London",
+            "duration": "1 Week",
+            "companyLogo": "https://assets.stickpng.com/images/628cf5f3ad2b88af1bf02617.png",
+            "link": "https://app.betterimpact.com/PublicOrganization/92e8d16c-472a-4200-b0c3-5580c22807e0/1"
+        },
+        {
+            "id": 1,
+            "title": "Biomedical Work Experiance",
+            "company": "University College London",
+            "description": "The scheme runs twice a year, in June and October, and provides a week-long programme of activities. It provides students with the opportunity to learn about a wide range of research topics and techniques.",
+            "location": "London",
+            "duration": "1 Week",
+            "companyLogo": "https://assets.stickpng.com/images/626ba2b51dc4c3b537787e12.png",
+            "link": "https://www.ucl.ac.uk/child-health/study/work-experience-school-pupils-aged-16-18-years"
+        }
+    ]
+}
